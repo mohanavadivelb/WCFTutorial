@@ -1,0 +1,7 @@
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Proxies\bin\Debug\GeoLib.Proxies.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Proxies\bin\Debug\GeoLib.Proxies.pdb
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Proxies\bin\Debug\GeoLib.Contracts.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Proxies\bin\Debug\GeoLib.Contracts.pdb
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Proxies\obj\Debug\GeoLib.Proxies.csprojResolveAssemblyReference.cache
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Proxies\obj\Debug\GeoLib.Proxies.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Proxies\obj\Debug\GeoLib.Proxies.pdb

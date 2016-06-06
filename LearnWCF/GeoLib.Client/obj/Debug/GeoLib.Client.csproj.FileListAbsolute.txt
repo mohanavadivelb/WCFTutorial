@@ -1,0 +1,13 @@
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\bin\Debug\GeoLib.Client.exe.config
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\bin\Debug\GeoLib.Client.exe
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\bin\Debug\GeoLib.Client.pdb
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\bin\Debug\GeoLib.Contracts.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\bin\Debug\GeoLib.Proxies.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\bin\Debug\GeoLib.Contracts.pdb
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\bin\Debug\GeoLib.Proxies.pdb
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\obj\Debug\GeoLib.Client.csprojResolveAssemblyReference.cache
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\obj\Debug\GeoLib.Client.Form1.resources
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\obj\Debug\GeoLib.Client.Properties.Resources.resources
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\obj\Debug\GeoLib.Client.csproj.GenerateResource.Cache
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\obj\Debug\GeoLib.Client.exe
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Client\obj\Debug\GeoLib.Client.pdb

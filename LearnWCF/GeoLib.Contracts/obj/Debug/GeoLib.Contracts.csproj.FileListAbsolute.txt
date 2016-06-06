@@ -1,0 +1,5 @@
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Contracts\bin\Debug\GeoLib.Contracts.pdb
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.pdb
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Contracts\obj\Debug\GeoLib.Contracts.csprojResolveAssemblyReference.cache

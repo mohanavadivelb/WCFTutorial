@@ -1,0 +1,16 @@
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\GeoLib.Data.dll.config
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\GeoLib.Data.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\GeoLib.Data.pdb
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\EntityFramework.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\GeoLib.Core.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\GeoLib.Core.pdb
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\EntityFramework.xml
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\obj\Debug\GeoLib.Data.csprojResolveAssemblyReference.cache
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\obj\Debug\GeoLib.Data.dll
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\obj\Debug\GeoLib.Data.pdb
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\obj\Debug\GeoLib.Data.Properties.Resources.resources
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\obj\Debug\GeoLib.Data.csproj.GenerateResource.Cache
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\Database1.mdf
+C:\Mohan\Code\WCFDemo\LearnWCF\GeoLib.Data\bin\Debug\Database1_log.ldf
